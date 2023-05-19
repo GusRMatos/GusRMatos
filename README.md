@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Reis de Matos</h1>
 <h3 align="center">A want to be Full Stack Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JAVA, Angular, PostgreSQL**
+- 🌱 I’m currently learning **JAVASCRIPT, TYPESCRIPT, HTML, CSS, ANGULAR**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GusRMatos?tab=repositories](https://github.com/GusRMatos?tab=repositories)
 
